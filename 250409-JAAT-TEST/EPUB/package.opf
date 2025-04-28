@@ -41,8 +41,11 @@
 <item id="html3" href="xhtml/raw/s0tbvn.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
 <item id="html4" href="xhtml/raw/s42u7c.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
 <item id="html5" href="xhtml/raw/sq1i0k.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html5-popup" href="xhtml/raw/sq1i0k-popup.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
 <item id="html6" href="xhtml/raw/sfkyz9.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html6-popup" href="xhtml/raw/sfkyz9-popup.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
 <item id="html7" href="xhtml/raw/sy7ngu.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html7-popup" href="xhtml/raw/sy7ngu-popup.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
 <item id="html8" href="xhtml/raw/sxpfwj.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
 <item id="html9" href="xhtml/raw/s10fxh.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
 <item id="html10" href="xhtml/raw/sv5sms.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
